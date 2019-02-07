@@ -1,0 +1,12 @@
+[package]
+name = "ch-1-time-api"
+version = "0.1.0"
+authors = ["Ross Todd <rosstod@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0.87"
+chrono = "0.4.6"
+rocket = "0.4.0"
+rocket_contrib = "0.4.0"
+serde_derive = "1.0.87"

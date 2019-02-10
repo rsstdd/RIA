@@ -1,0 +1,2 @@
+[workspace]
+members = ["ch_03_compound_data_types"]
